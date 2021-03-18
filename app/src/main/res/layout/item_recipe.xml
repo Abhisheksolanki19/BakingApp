@@ -7,7 +7,7 @@
 
         <variable
             name="recipe"
-            type="com.ajdi.yassin.bakingapp.data.local.model.Recipe" />
+            type="com.merchpandas.abhishek.bakingapp.data.local.model.Recipe" />
     </data>
 
     <androidx.cardview.widget.CardView

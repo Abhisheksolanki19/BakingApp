@@ -7,7 +7,7 @@
 
         <variable
             name="ingredient"
-            type="com.ajdi.yassin.bakingapp.data.local.model.Ingredient" />
+            type="com.merchpandas.abhishek.bakingapp.data.local.model.Ingredient" />
 
     </data>
 
